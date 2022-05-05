@@ -103,7 +103,6 @@ GEM
     msgpack (1.5.1)
 
     mysql2 (0.5.4)
-    mysql2 (0.5.3)
 
     nio4r (2.5.8)
     nokogiri (1.13.4)
